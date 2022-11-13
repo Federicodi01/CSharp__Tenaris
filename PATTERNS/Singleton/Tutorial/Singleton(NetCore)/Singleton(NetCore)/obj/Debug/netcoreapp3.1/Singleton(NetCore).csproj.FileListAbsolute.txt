@@ -1,0 +1,14 @@
+C:\Workspace\C#\PATTERNS\Singleton\Tutorial\Singleton(NetCore)\Singleton(NetCore)\bin\Debug\netcoreapp3.1\Singleton(NetCore).exe
+C:\Workspace\C#\PATTERNS\Singleton\Tutorial\Singleton(NetCore)\Singleton(NetCore)\bin\Debug\netcoreapp3.1\Singleton(NetCore).deps.json
+C:\Workspace\C#\PATTERNS\Singleton\Tutorial\Singleton(NetCore)\Singleton(NetCore)\bin\Debug\netcoreapp3.1\Singleton(NetCore).runtimeconfig.json
+C:\Workspace\C#\PATTERNS\Singleton\Tutorial\Singleton(NetCore)\Singleton(NetCore)\bin\Debug\netcoreapp3.1\Singleton(NetCore).runtimeconfig.dev.json
+C:\Workspace\C#\PATTERNS\Singleton\Tutorial\Singleton(NetCore)\Singleton(NetCore)\bin\Debug\netcoreapp3.1\Singleton(NetCore).dll
+C:\Workspace\C#\PATTERNS\Singleton\Tutorial\Singleton(NetCore)\Singleton(NetCore)\bin\Debug\netcoreapp3.1\Singleton(NetCore).pdb
+C:\Workspace\C#\PATTERNS\Singleton\Tutorial\Singleton(NetCore)\Singleton(NetCore)\obj\Debug\netcoreapp3.1\Singleton(NetCore).csproj.AssemblyReference.cache
+C:\Workspace\C#\PATTERNS\Singleton\Tutorial\Singleton(NetCore)\Singleton(NetCore)\obj\Debug\netcoreapp3.1\Singleton(NetCore).GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C#\PATTERNS\Singleton\Tutorial\Singleton(NetCore)\Singleton(NetCore)\obj\Debug\netcoreapp3.1\Singleton(NetCore).AssemblyInfoInputs.cache
+C:\Workspace\C#\PATTERNS\Singleton\Tutorial\Singleton(NetCore)\Singleton(NetCore)\obj\Debug\netcoreapp3.1\Singleton(NetCore).AssemblyInfo.cs
+C:\Workspace\C#\PATTERNS\Singleton\Tutorial\Singleton(NetCore)\Singleton(NetCore)\obj\Debug\netcoreapp3.1\Singleton(NetCore).csproj.CoreCompileInputs.cache
+C:\Workspace\C#\PATTERNS\Singleton\Tutorial\Singleton(NetCore)\Singleton(NetCore)\obj\Debug\netcoreapp3.1\Singleton(NetCore).dll
+C:\Workspace\C#\PATTERNS\Singleton\Tutorial\Singleton(NetCore)\Singleton(NetCore)\obj\Debug\netcoreapp3.1\Singleton(NetCore).pdb
+C:\Workspace\C#\PATTERNS\Singleton\Tutorial\Singleton(NetCore)\Singleton(NetCore)\obj\Debug\netcoreapp3.1\Singleton(NetCore).genruntimeconfig.cache

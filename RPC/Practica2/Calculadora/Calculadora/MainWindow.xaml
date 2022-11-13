@@ -1,0 +1,25 @@
+﻿<Window x:Class="Calculadora.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculadora"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="180" Width="400"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel Margin="10,10">
+            <TextBlock Text=".NET Remoting"
+                       FontSize="25"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"/>
+            <Button x:Name="btnInitService"
+                    Content="Iniciar Servicio"
+                    FontSize="25"
+                    FontWeight="Medium"
+                    Height="60" 
+                    Width="300"
+                    Margin="0,20,0,0" Click="btnInitService_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

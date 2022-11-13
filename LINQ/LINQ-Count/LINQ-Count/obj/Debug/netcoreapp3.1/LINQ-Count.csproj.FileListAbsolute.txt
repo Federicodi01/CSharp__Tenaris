@@ -1,0 +1,13 @@
+C:\Workspace\C#\LINQ-Count\LINQ-Count\bin\Debug\netcoreapp3.1\LINQ-Count.exe
+C:\Workspace\C#\LINQ-Count\LINQ-Count\bin\Debug\netcoreapp3.1\LINQ-Count.deps.json
+C:\Workspace\C#\LINQ-Count\LINQ-Count\bin\Debug\netcoreapp3.1\LINQ-Count.runtimeconfig.json
+C:\Workspace\C#\LINQ-Count\LINQ-Count\bin\Debug\netcoreapp3.1\LINQ-Count.runtimeconfig.dev.json
+C:\Workspace\C#\LINQ-Count\LINQ-Count\bin\Debug\netcoreapp3.1\LINQ-Count.dll
+C:\Workspace\C#\LINQ-Count\LINQ-Count\bin\Debug\netcoreapp3.1\LINQ-Count.pdb
+C:\Workspace\C#\LINQ-Count\LINQ-Count\obj\Debug\netcoreapp3.1\LINQ-Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C#\LINQ-Count\LINQ-Count\obj\Debug\netcoreapp3.1\LINQ-Count.AssemblyInfoInputs.cache
+C:\Workspace\C#\LINQ-Count\LINQ-Count\obj\Debug\netcoreapp3.1\LINQ-Count.AssemblyInfo.cs
+C:\Workspace\C#\LINQ-Count\LINQ-Count\obj\Debug\netcoreapp3.1\LINQ-Count.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\LINQ-Count\LINQ-Count\obj\Debug\netcoreapp3.1\LINQ-Count.dll
+C:\Workspace\C#\LINQ-Count\LINQ-Count\obj\Debug\netcoreapp3.1\LINQ-Count.pdb
+C:\Workspace\C#\LINQ-Count\LINQ-Count\obj\Debug\netcoreapp3.1\LINQ-Count.genruntimeconfig.cache

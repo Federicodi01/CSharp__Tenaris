@@ -1,0 +1,14 @@
+C:\Workspace\C#\LINQ-Join\LINQ-Join\bin\Debug\netcoreapp3.1\LINQ-Join.exe
+C:\Workspace\C#\LINQ-Join\LINQ-Join\bin\Debug\netcoreapp3.1\LINQ-Join.deps.json
+C:\Workspace\C#\LINQ-Join\LINQ-Join\bin\Debug\netcoreapp3.1\LINQ-Join.runtimeconfig.json
+C:\Workspace\C#\LINQ-Join\LINQ-Join\bin\Debug\netcoreapp3.1\LINQ-Join.runtimeconfig.dev.json
+C:\Workspace\C#\LINQ-Join\LINQ-Join\bin\Debug\netcoreapp3.1\LINQ-Join.dll
+C:\Workspace\C#\LINQ-Join\LINQ-Join\bin\Debug\netcoreapp3.1\LINQ-Join.pdb
+C:\Workspace\C#\LINQ-Join\LINQ-Join\obj\Debug\netcoreapp3.1\LINQ-Join.csproj.AssemblyReference.cache
+C:\Workspace\C#\LINQ-Join\LINQ-Join\obj\Debug\netcoreapp3.1\LINQ-Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C#\LINQ-Join\LINQ-Join\obj\Debug\netcoreapp3.1\LINQ-Join.AssemblyInfoInputs.cache
+C:\Workspace\C#\LINQ-Join\LINQ-Join\obj\Debug\netcoreapp3.1\LINQ-Join.AssemblyInfo.cs
+C:\Workspace\C#\LINQ-Join\LINQ-Join\obj\Debug\netcoreapp3.1\LINQ-Join.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\LINQ-Join\LINQ-Join\obj\Debug\netcoreapp3.1\LINQ-Join.dll
+C:\Workspace\C#\LINQ-Join\LINQ-Join\obj\Debug\netcoreapp3.1\LINQ-Join.pdb
+C:\Workspace\C#\LINQ-Join\LINQ-Join\obj\Debug\netcoreapp3.1\LINQ-Join.genruntimeconfig.cache

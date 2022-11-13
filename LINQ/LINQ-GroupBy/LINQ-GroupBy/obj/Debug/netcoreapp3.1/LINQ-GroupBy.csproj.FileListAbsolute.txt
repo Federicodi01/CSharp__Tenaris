@@ -1,0 +1,14 @@
+C:\Workspace\C#\LINQ-GroupBy\LINQ-GroupBy\bin\Debug\netcoreapp3.1\LINQ-GroupBy.exe
+C:\Workspace\C#\LINQ-GroupBy\LINQ-GroupBy\bin\Debug\netcoreapp3.1\LINQ-GroupBy.deps.json
+C:\Workspace\C#\LINQ-GroupBy\LINQ-GroupBy\bin\Debug\netcoreapp3.1\LINQ-GroupBy.runtimeconfig.json
+C:\Workspace\C#\LINQ-GroupBy\LINQ-GroupBy\bin\Debug\netcoreapp3.1\LINQ-GroupBy.runtimeconfig.dev.json
+C:\Workspace\C#\LINQ-GroupBy\LINQ-GroupBy\bin\Debug\netcoreapp3.1\LINQ-GroupBy.dll
+C:\Workspace\C#\LINQ-GroupBy\LINQ-GroupBy\bin\Debug\netcoreapp3.1\LINQ-GroupBy.pdb
+C:\Workspace\C#\LINQ-GroupBy\LINQ-GroupBy\obj\Debug\netcoreapp3.1\LINQ-GroupBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C#\LINQ-GroupBy\LINQ-GroupBy\obj\Debug\netcoreapp3.1\LINQ-GroupBy.AssemblyInfoInputs.cache
+C:\Workspace\C#\LINQ-GroupBy\LINQ-GroupBy\obj\Debug\netcoreapp3.1\LINQ-GroupBy.AssemblyInfo.cs
+C:\Workspace\C#\LINQ-GroupBy\LINQ-GroupBy\obj\Debug\netcoreapp3.1\LINQ-GroupBy.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\LINQ-GroupBy\LINQ-GroupBy\obj\Debug\netcoreapp3.1\LINQ-GroupBy.dll
+C:\Workspace\C#\LINQ-GroupBy\LINQ-GroupBy\obj\Debug\netcoreapp3.1\LINQ-GroupBy.pdb
+C:\Workspace\C#\LINQ-GroupBy\LINQ-GroupBy\obj\Debug\netcoreapp3.1\LINQ-GroupBy.genruntimeconfig.cache
+C:\Workspace\C#\LINQ-GroupBy\LINQ-GroupBy\obj\Debug\netcoreapp3.1\LINQ-GroupBy.csproj.AssemblyReference.cache

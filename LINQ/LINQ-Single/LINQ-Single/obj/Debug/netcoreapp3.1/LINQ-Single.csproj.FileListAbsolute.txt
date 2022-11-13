@@ -1,0 +1,14 @@
+C:\Workspace\C#\LINQ-Single\LINQ-Single\bin\Debug\netcoreapp3.1\LINQ-Single.exe
+C:\Workspace\C#\LINQ-Single\LINQ-Single\bin\Debug\netcoreapp3.1\LINQ-Single.deps.json
+C:\Workspace\C#\LINQ-Single\LINQ-Single\bin\Debug\netcoreapp3.1\LINQ-Single.runtimeconfig.json
+C:\Workspace\C#\LINQ-Single\LINQ-Single\bin\Debug\netcoreapp3.1\LINQ-Single.runtimeconfig.dev.json
+C:\Workspace\C#\LINQ-Single\LINQ-Single\bin\Debug\netcoreapp3.1\LINQ-Single.dll
+C:\Workspace\C#\LINQ-Single\LINQ-Single\bin\Debug\netcoreapp3.1\LINQ-Single.pdb
+C:\Workspace\C#\LINQ-Single\LINQ-Single\obj\Debug\netcoreapp3.1\LINQ-Single.csproj.AssemblyReference.cache
+C:\Workspace\C#\LINQ-Single\LINQ-Single\obj\Debug\netcoreapp3.1\LINQ-Single.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C#\LINQ-Single\LINQ-Single\obj\Debug\netcoreapp3.1\LINQ-Single.AssemblyInfoInputs.cache
+C:\Workspace\C#\LINQ-Single\LINQ-Single\obj\Debug\netcoreapp3.1\LINQ-Single.AssemblyInfo.cs
+C:\Workspace\C#\LINQ-Single\LINQ-Single\obj\Debug\netcoreapp3.1\LINQ-Single.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\LINQ-Single\LINQ-Single\obj\Debug\netcoreapp3.1\LINQ-Single.dll
+C:\Workspace\C#\LINQ-Single\LINQ-Single\obj\Debug\netcoreapp3.1\LINQ-Single.pdb
+C:\Workspace\C#\LINQ-Single\LINQ-Single\obj\Debug\netcoreapp3.1\LINQ-Single.genruntimeconfig.cache

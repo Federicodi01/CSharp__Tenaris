@@ -1,0 +1,7 @@
+C:\Workspace\C#\LINQ\Practica-LINQ\Practica-LINQ\bin\Debug\Practica-LINQ.exe.config
+C:\Workspace\C#\LINQ\Practica-LINQ\Practica-LINQ\bin\Debug\Practica-LINQ.exe
+C:\Workspace\C#\LINQ\Practica-LINQ\Practica-LINQ\bin\Debug\Practica-LINQ.pdb
+C:\Workspace\C#\LINQ\Practica-LINQ\Practica-LINQ\obj\Debug\Practica-LINQ.csproj.AssemblyReference.cache
+C:\Workspace\C#\LINQ\Practica-LINQ\Practica-LINQ\obj\Debug\Practica-LINQ.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\LINQ\Practica-LINQ\Practica-LINQ\obj\Debug\Practica-LINQ.exe
+C:\Workspace\C#\LINQ\Practica-LINQ\Practica-LINQ\obj\Debug\Practica-LINQ.pdb

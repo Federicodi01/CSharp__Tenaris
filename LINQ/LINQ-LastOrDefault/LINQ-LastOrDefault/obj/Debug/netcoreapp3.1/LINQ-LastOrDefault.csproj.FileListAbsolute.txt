@@ -1,0 +1,14 @@
+C:\Workspace\C#\LINQ-LastOrDefault\LINQ-LastOrDefault\bin\Debug\netcoreapp3.1\LINQ-LastOrDefault.exe
+C:\Workspace\C#\LINQ-LastOrDefault\LINQ-LastOrDefault\bin\Debug\netcoreapp3.1\LINQ-LastOrDefault.deps.json
+C:\Workspace\C#\LINQ-LastOrDefault\LINQ-LastOrDefault\bin\Debug\netcoreapp3.1\LINQ-LastOrDefault.runtimeconfig.json
+C:\Workspace\C#\LINQ-LastOrDefault\LINQ-LastOrDefault\bin\Debug\netcoreapp3.1\LINQ-LastOrDefault.runtimeconfig.dev.json
+C:\Workspace\C#\LINQ-LastOrDefault\LINQ-LastOrDefault\bin\Debug\netcoreapp3.1\LINQ-LastOrDefault.dll
+C:\Workspace\C#\LINQ-LastOrDefault\LINQ-LastOrDefault\bin\Debug\netcoreapp3.1\LINQ-LastOrDefault.pdb
+C:\Workspace\C#\LINQ-LastOrDefault\LINQ-LastOrDefault\obj\Debug\netcoreapp3.1\LINQ-LastOrDefault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C#\LINQ-LastOrDefault\LINQ-LastOrDefault\obj\Debug\netcoreapp3.1\LINQ-LastOrDefault.AssemblyInfoInputs.cache
+C:\Workspace\C#\LINQ-LastOrDefault\LINQ-LastOrDefault\obj\Debug\netcoreapp3.1\LINQ-LastOrDefault.AssemblyInfo.cs
+C:\Workspace\C#\LINQ-LastOrDefault\LINQ-LastOrDefault\obj\Debug\netcoreapp3.1\LINQ-LastOrDefault.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\LINQ-LastOrDefault\LINQ-LastOrDefault\obj\Debug\netcoreapp3.1\LINQ-LastOrDefault.dll
+C:\Workspace\C#\LINQ-LastOrDefault\LINQ-LastOrDefault\obj\Debug\netcoreapp3.1\LINQ-LastOrDefault.pdb
+C:\Workspace\C#\LINQ-LastOrDefault\LINQ-LastOrDefault\obj\Debug\netcoreapp3.1\LINQ-LastOrDefault.genruntimeconfig.cache
+C:\Workspace\C#\LINQ-LastOrDefault\LINQ-LastOrDefault\obj\Debug\netcoreapp3.1\LINQ-LastOrDefault.csproj.AssemblyReference.cache

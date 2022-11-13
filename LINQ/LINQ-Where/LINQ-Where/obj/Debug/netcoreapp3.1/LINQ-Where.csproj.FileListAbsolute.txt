@@ -1,0 +1,13 @@
+C:\Workspace\C#\LINQ-Where\LINQ-Where\bin\Debug\netcoreapp3.1\LINQ-Where.exe
+C:\Workspace\C#\LINQ-Where\LINQ-Where\bin\Debug\netcoreapp3.1\LINQ-Where.deps.json
+C:\Workspace\C#\LINQ-Where\LINQ-Where\bin\Debug\netcoreapp3.1\LINQ-Where.runtimeconfig.json
+C:\Workspace\C#\LINQ-Where\LINQ-Where\bin\Debug\netcoreapp3.1\LINQ-Where.runtimeconfig.dev.json
+C:\Workspace\C#\LINQ-Where\LINQ-Where\bin\Debug\netcoreapp3.1\LINQ-Where.dll
+C:\Workspace\C#\LINQ-Where\LINQ-Where\bin\Debug\netcoreapp3.1\LINQ-Where.pdb
+C:\Workspace\C#\LINQ-Where\LINQ-Where\obj\Debug\netcoreapp3.1\LINQ-Where.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C#\LINQ-Where\LINQ-Where\obj\Debug\netcoreapp3.1\LINQ-Where.AssemblyInfoInputs.cache
+C:\Workspace\C#\LINQ-Where\LINQ-Where\obj\Debug\netcoreapp3.1\LINQ-Where.AssemblyInfo.cs
+C:\Workspace\C#\LINQ-Where\LINQ-Where\obj\Debug\netcoreapp3.1\LINQ-Where.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\LINQ-Where\LINQ-Where\obj\Debug\netcoreapp3.1\LINQ-Where.dll
+C:\Workspace\C#\LINQ-Where\LINQ-Where\obj\Debug\netcoreapp3.1\LINQ-Where.pdb
+C:\Workspace\C#\LINQ-Where\LINQ-Where\obj\Debug\netcoreapp3.1\LINQ-Where.genruntimeconfig.cache

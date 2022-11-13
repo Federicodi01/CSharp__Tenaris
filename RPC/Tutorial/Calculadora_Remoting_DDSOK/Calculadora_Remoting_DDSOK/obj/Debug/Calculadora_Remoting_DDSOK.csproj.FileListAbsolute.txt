@@ -1,0 +1,19 @@
+Y:\Documents\Visual Studio 2013\Projects\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\bin\Debug\Calculadora_Remoting_DDSOK.exe.config
+Y:\Documents\Visual Studio 2013\Projects\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\obj\Debug\Calculadora_Remoting_DDSOK.csprojResolveAssemblyReference.cache
+Y:\Documents\Visual Studio 2013\Projects\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\obj\Debug\Calculadora_Remoting_DDSOK.Properties.Resources.resources
+Y:\Documents\Visual Studio 2013\Projects\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\obj\Debug\Calculadora_Remoting_DDSOK.Servidor.resources
+Y:\Documents\Visual Studio 2013\Projects\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\obj\Debug\Calculadora_Remoting_DDSOK.csproj.GenerateResource.Cache
+Y:\Documents\Visual Studio 2013\Projects\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\bin\Debug\Calculadora_Remoting_DDSOK.exe
+Y:\Documents\Visual Studio 2013\Projects\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\bin\Debug\Calculadora_Remoting_DDSOK.pdb
+Y:\Documents\Visual Studio 2013\Projects\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\obj\Debug\Calculadora_Remoting_DDSOK.exe
+Y:\Documents\Visual Studio 2013\Projects\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\obj\Debug\Calculadora_Remoting_DDSOK.pdb
+C:\Workspace\C#\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\bin\Debug\Calculadora_Remoting_DDSOK.exe.config
+C:\Workspace\C#\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\bin\Debug\Calculadora_Remoting_DDSOK.exe
+C:\Workspace\C#\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\bin\Debug\Calculadora_Remoting_DDSOK.pdb
+C:\Workspace\C#\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\obj\Debug\Calculadora_Remoting_DDSOK.csproj.AssemblyReference.cache
+C:\Workspace\C#\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\obj\Debug\Calculadora_Remoting_DDSOK.Properties.Resources.resources
+C:\Workspace\C#\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\obj\Debug\Calculadora_Remoting_DDSOK.Servidor.resources
+C:\Workspace\C#\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\obj\Debug\Calculadora_Remoting_DDSOK.csproj.GenerateResource.cache
+C:\Workspace\C#\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\obj\Debug\Calculadora_Remoting_DDSOK.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\obj\Debug\Calculadora_Remoting_DDSOK.exe
+C:\Workspace\C#\Calculadora_Remoting_DDSOK\Calculadora_Remoting_DDSOK\obj\Debug\Calculadora_Remoting_DDSOK.pdb

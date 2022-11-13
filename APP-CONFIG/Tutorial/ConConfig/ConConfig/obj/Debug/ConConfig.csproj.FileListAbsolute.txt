@@ -1,0 +1,6 @@
+C:\Workspace\C#\APP-CONFIG\Tutorial\ConConfig\ConConfig\bin\Debug\ConConfig.exe.config
+C:\Workspace\C#\APP-CONFIG\Tutorial\ConConfig\ConConfig\bin\Debug\ConConfig.exe
+C:\Workspace\C#\APP-CONFIG\Tutorial\ConConfig\ConConfig\bin\Debug\ConConfig.pdb
+C:\Workspace\C#\APP-CONFIG\Tutorial\ConConfig\ConConfig\obj\Debug\ConConfig.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\APP-CONFIG\Tutorial\ConConfig\ConConfig\obj\Debug\ConConfig.exe
+C:\Workspace\C#\APP-CONFIG\Tutorial\ConConfig\ConConfig\obj\Debug\ConConfig.pdb

@@ -1,0 +1,1 @@
+C:\Workspace\C#\RPC\Practica2\Calculadora\Calculadora_Cliente\obj\Debug\Calculadora_Cliente.csproj.AssemblyReference.cache

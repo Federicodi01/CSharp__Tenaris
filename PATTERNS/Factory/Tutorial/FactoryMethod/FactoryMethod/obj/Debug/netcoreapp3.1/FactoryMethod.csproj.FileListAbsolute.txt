@@ -1,0 +1,13 @@
+C:\Workspace\C#\PATTERNS\Factory\Tutorial\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Workspace\C#\PATTERNS\Factory\Tutorial\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Workspace\C#\PATTERNS\Factory\Tutorial\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Workspace\C#\PATTERNS\Factory\Tutorial\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Workspace\C#\PATTERNS\Factory\Tutorial\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Workspace\C#\PATTERNS\Factory\Tutorial\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Workspace\C#\PATTERNS\Factory\Tutorial\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C#\PATTERNS\Factory\Tutorial\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Workspace\C#\PATTERNS\Factory\Tutorial\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Workspace\C#\PATTERNS\Factory\Tutorial\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\PATTERNS\Factory\Tutorial\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Workspace\C#\PATTERNS\Factory\Tutorial\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Workspace\C#\PATTERNS\Factory\Tutorial\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache

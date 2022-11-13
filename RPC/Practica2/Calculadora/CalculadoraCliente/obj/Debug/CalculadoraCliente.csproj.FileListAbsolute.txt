@@ -1,0 +1,14 @@
+C:\Workspace\C#\RPC\Practica2\Calculadora\CalculadoraCliente\obj\Debug\App.g.cs
+C:\Workspace\C#\RPC\Practica2\Calculadora\CalculadoraCliente\obj\Debug\CalculadoraCliente_MarkupCompile.cache
+C:\Workspace\C#\RPC\Practica2\Calculadora\CalculadoraCliente\obj\Debug\CalculadoraCliente_MarkupCompile.lref
+C:\Workspace\C#\RPC\Practica2\Calculadora\CalculadoraCliente\bin\Debug\CalculadoraCliente.exe.config
+C:\Workspace\C#\RPC\Practica2\Calculadora\CalculadoraCliente\bin\Debug\CalculadoraCliente.exe
+C:\Workspace\C#\RPC\Practica2\Calculadora\CalculadoraCliente\bin\Debug\CalculadoraCliente.pdb
+C:\Workspace\C#\RPC\Practica2\Calculadora\CalculadoraCliente\obj\Debug\CalculadoraCliente.g.resources
+C:\Workspace\C#\RPC\Practica2\Calculadora\CalculadoraCliente\obj\Debug\CalculadoraCliente.Properties.Resources.resources
+C:\Workspace\C#\RPC\Practica2\Calculadora\CalculadoraCliente\obj\Debug\CalculadoraCliente.csproj.GenerateResource.cache
+C:\Workspace\C#\RPC\Practica2\Calculadora\CalculadoraCliente\obj\Debug\CalculadoraCliente.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\RPC\Practica2\Calculadora\CalculadoraCliente\obj\Debug\CalculadoraCliente.exe
+C:\Workspace\C#\RPC\Practica2\Calculadora\CalculadoraCliente\obj\Debug\CalculadoraCliente.pdb
+C:\Workspace\C#\RPC\Practica2\Calculadora\CalculadoraCliente\obj\Debug\Calculator.g.cs
+C:\Workspace\C#\RPC\Practica2\Calculadora\CalculadoraCliente\obj\Debug\Calculator.baml
